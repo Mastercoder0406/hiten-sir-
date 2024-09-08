@@ -1,0 +1,16 @@
+Column Headers:
+
+Name
+Job_Title
+Company
+Description
+Skills
+Education
+Experience
+Data:
+
+"Name","Job_Title","Company","Description","Skills","Education","Experience" "Aditya Rathore","Data Science Assurance Associate","Ernst & Young LLP","Fraud Investigations and Dispute Services","Python, scikit-learn, tfidf, word2vec, doc2vec, cosine similarity, NaÃ¯ve Bayes, LDA, NMF, Vader, text blob, Matplot lib, Tableau","B.E, UIT-RGPV","24 months" "Aditya Rathore","Data Scientist","Matelabs","ML Platform for business professionals, dummies and enthusiasts.","Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras","B.E, UIT-RGPV","Less than 1 year" "Data Science Enthusiast","Data Science","THEMATHCOMPANY","Casino based operator in Macau","Data Analysis, excel, Machine Learning, mathematics, Python, Matlab, Electrical Engineering, Sql","B.Tech., Manipal Institute of Technology","Less than 1 year" "Data Science Consultant","Consultant","Deloitte USI","Cross Industry, Retail, SCM, Deep Learning, Machine learning, Python, R","PGDM Business Analytics, Great Lakes Institute of Management & Illinois Institute of Technology","Less than 1 year" "Data Science Intern","Data Science internship","Itechpower","Data Structure, C, Data Analysis, Python, Core Java, Database Management","MCA, YMCAUST, Faridabad, Haryana","Less than 1 year" "Data Science Enthusiast","Data Science","","C Basics, IOT, Python, MATLAB, Data Science, Machine Learning, HTML, Microsoft Word, Microsoft Excel, Microsoft Powerpoint","B.Tech., Aurora's Scientific and Technological Institute","Less than 1 year" "Data Science Enthusiast","Data Science","","MS OFFICE, C, machine learning, data science","Secondary Education, SR Junior College","Less than 1 year"
+
+Note: The experience column is not always explicitly mentioned, so I've filled it with "Less than 1 year" or the actual experience mentioned in the resume. Also, some skills are not explicitly mentioned, so I've only included the ones that are mentioned.
+
+Please let me know if you need any further assistance or modifications to the CSV structure.
